@@ -6,13 +6,13 @@
   I'm excited to continue my journey in the world of data. I'm always eager to learn new techniques and tackle new challenges.
 
 ## Skills
--	Programming Languages: Python, SQL, JavaScript, VBA
--	Databases: MySQL, MongoDB, PostgreSQL, NoSQL
--	Data Analysis and Visualization: Pandas, NumPy, Matplotlib, Tableau, Jupyter Notebook
--	Web Development: HTML, CSS, Bootstrap, Flask, Leaflet
--	Other: ETL, PySpark, API Interactions, Git, GitHub
+-	**Programming Languages:** Python, SQL, JavaScript, VBA
+-	**Databases:** MySQL, MongoDB, PostgreSQL, NoSQL
+-	**Data Analysis and Visualization:** Pandas, NumPy, Matplotlib, Tableau, Jupyter Notebook
+-	**Web Development:** HTML, CSS, Bootstrap, Flask, Leaflet
+-	**Other:** ETL, PySpark, API Interactions, Git, GitHub
 
 ## Projects
--	Film Industry Analysis: Applied Python to analyze film industry data, revealing box office trends and key performance indicators.
--	Crowdfunding ETL: Designed and implemented a crowdfunding database using SQL, uncovering crucial trends in crowdfunding campaigns.
--	Air Quality Visualization: Collaborated on an interactive web application to visualize global air quality data, raising awareness of pollution's impact.
+-	**Film Industry Analysis:** Applied Python to analyze film industry data, revealing box office trends and key performance indicators.
+-	**Crowdfunding ETL:** Designed and implemented a crowdfunding database using SQL, uncovering crucial trends in crowdfunding campaigns.
+-	**Air Quality Visualization:** Collaborated on an interactive web application to visualize global air quality data, raising awareness of pollution's impact.
