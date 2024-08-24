@@ -17,7 +17,6 @@
 -	**Film Industry Analysis:** Applied Python to analyze film industry data, revealing box office trends and key performance indicators.
   ![regression](images/regression.png)
 -	**Crowdfunding ETL:** Designed and implemented a crowdfunding database using SQL, uncovering crucial trends in crowdfunding campaigns.
-  
   ![ETL](images/etl.png)
 -	**Air Quality Visualization:** Collaborated on an interactive web application to visualize global air quality data, raising awareness of pollution's impact.
   ![map](images/heatmap.png)
