@@ -16,7 +16,7 @@
 -	**Other:** ETL, PySpark, API Interactions, Git, GitHub
 
 ## Projects
--	**[Film Industry Analysis:](https://github.com/andrew-m-vick/project-1-group-18)** Applied Python to analyze film industry data, revealing box office trends and key performance indicators.
+-	**[Film Industry Analysis:]([https://github.com/andrew-m-vick/project-1-group-18](https://github.com/andrew-m-vick/project-1-group-18/blob/main/Andrew-Regression/Project1_Base_VICK.ipynb))** Applied Python to analyze film industry data, revealing box office trends and key performance indicators.
   
   ![regression](images/regression.png)
   
