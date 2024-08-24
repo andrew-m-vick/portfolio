@@ -16,7 +16,7 @@
 ## Projects
 -	**[Film Industry Analysis:](https://github.com/andrew-m-vick/project-1-group-18)** Applied Python to analyze film industry data, revealing box office trends and key performance indicators.
   ![regression](images/regression.png)
--	**Crowdfunding ETL:** Designed and implemented a crowdfunding database using SQL, uncovering crucial trends in crowdfunding campaigns.
+-	**[Crowdfunding ETL:](https://github.com/andrew-m-vick/Crowdfunding_ETL)** Designed and implemented a crowdfunding database using SQL, uncovering crucial trends in crowdfunding campaigns.
   ![ETL](images/etl_analysis.png)
--	**Air Quality Visualization:** Collaborated on an interactive web application to visualize global air quality data, raising awareness of pollution's impact.
+-	**[Air Quality Visualization:](https://github.com/andrew-m-vick/project-3-group-08)** Collaborated on an interactive web application to visualize global air quality data, raising awareness of pollution's impact.
   ![map](images/heatmap.png)
