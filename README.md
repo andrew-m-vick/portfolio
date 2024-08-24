@@ -14,7 +14,7 @@
 -	**Other:** ETL, PySpark, API Interactions, Git, GitHub
 
 ## Projects
--	**Film Industry Analysis:** Applied Python to analyze film industry data, revealing box office trends and key performance indicators.
+-	**[Film Industry Analysis:](https://github.com/andrew-m-vick/project-1-group-18)** Applied Python to analyze film industry data, revealing box office trends and key performance indicators.
   ![regression](images/regression.png)
 -	**Crowdfunding ETL:** Designed and implemented a crowdfunding database using SQL, uncovering crucial trends in crowdfunding campaigns.
   ![ETL](images/etl_analysis.png)
