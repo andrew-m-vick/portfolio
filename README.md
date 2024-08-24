@@ -1,4 +1,5 @@
-# About Me
+# About Me![me](images/team_member4.jpg)
+
 
   Hi there! I'm Andrew Vick, a data analyst with a passion for transforming raw data into actionable insights. I thrive on uncovering the stories hidden within complex datasets and using them to drive strategic decision-making.
   My toolkit includes Python, SQL, and a variety of data visualization tools. I have a proven track record of leveraging data to fuel business growth and optimize operational efficiency. Whether it's analyzing industry trends, building a database, or visualizing data, I love tackling diverse projects that challenge me to learn and grow.
@@ -14,5 +15,8 @@
 
 ## Projects
 -	**Film Industry Analysis:** Applied Python to analyze film industry data, revealing box office trends and key performance indicators.
+  ![regression](images/regression.png)
 -	**Crowdfunding ETL:** Designed and implemented a crowdfunding database using SQL, uncovering crucial trends in crowdfunding campaigns.
+  ![ETL](images/etl.png)
 -	**Air Quality Visualization:** Collaborated on an interactive web application to visualize global air quality data, raising awareness of pollution's impact.
+  ![map](images/heatmap.png)
