@@ -1,7 +1,8 @@
 # About Me
 
-![me](images/team_member4.jpg)
+[https://www.linkedin.com/in/andrew-m-vick](https://www.linkedin.com/in/andrew-m-vick)
 
+![me](images/team_member4.jpg)
 
   Hi there! I'm Andrew Vick, a data analyst with a passion for transforming raw data into actionable insights. I thrive on uncovering the stories hidden within complex datasets and using them to drive strategic decision-making.
   My toolkit includes Python, SQL, and a variety of data visualization tools. I have a proven track record of leveraging data to fuel business growth and optimize operational efficiency. Whether it's analyzing industry trends, building a database, or visualizing data, I love tackling diverse projects that challenge me to learn and grow.
@@ -27,3 +28,7 @@
 -	**[Air Quality Visualization:](https://github.com/andrew-m-vick/project-3-group-08)** Collaborated on an interactive web application to visualize global air quality data, raising awareness of pollution's impact.
   
   ![map](images/heatmap.png)
+
+- **[Citibike Ridership Analysis:](https://github.com/andrew-m-vick/tableau_citibike_2023)** Applied Tableau to visualize and analyze Citibike ridership data, revealing key insights into seasonal trends, commuting behaviors, station popularity, and geographic distribution.
+
+![tableau](images/page_1.png)
