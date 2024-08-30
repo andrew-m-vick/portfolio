@@ -1,6 +1,6 @@
 # About Me
 
-[https://www.linkedin.com/in/andrew-m-vick](https://www.linkedin.com/in/andrew-m-vick)
+**LinkedIn:** [https://www.linkedin.com/in/andrew-m-vick](https://www.linkedin.com/in/andrew-m-vick)
 
 ![me](images/team_member4.jpg)
 
