@@ -1,5 +1,7 @@
 # About Me
 
+**Resume:** [https://docs.google.com/file/d/1AedoIY4MqNv7SLPPyh6yyQFtxi7tGpLW/edit?usp=docslist_api&filetype=msword](https://docs.google.com/file/d/1AedoIY4MqNv7SLPPyh6yyQFtxi7tGpLW/edit?usp=docslist_api&filetype=msword)
+
 **LinkedIn:** [https://www.linkedin.com/in/andrew-m-vick](https://www.linkedin.com/in/andrew-m-vick)
 
 ![me](images/team_member4.jpg)
