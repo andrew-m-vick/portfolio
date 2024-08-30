@@ -30,4 +30,4 @@
 
 - **[Citibike Ridership Analysis:](https://github.com/andrew-m-vick/tableau_citibike_2023)** Applied Tableau to visualize and analyze Citibike ridership data, revealing key insights into seasonal trends, commuting behaviors, station popularity, and geographic distribution.
 
-  ![tableau](images/page_1.png)
+![tableau](images/page_1.png)
