@@ -1,5 +1,8 @@
 # About Me
 
+[Connect with me on LinkedIn](https://www.linkedin.com/in/andrew-m-vick)
+
+
 ![me](images/team_member4.jpg)
 
 
