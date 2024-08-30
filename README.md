@@ -17,18 +17,18 @@
 -	**Other:** ETL, PySpark, API Interactions, Git, GitHub
 
 ## Projects
--	**[Film Industry Analysis:](https://github.com/andrew-m-vick/project-1-group-18/blob/main/Andrew-Regression/Project1_Base_VICK.ipynb)** Applied Python to analyze film industry data, revealing box office trends and key performance indicators.
+-	**[Film Industry Analysis](https://github.com/andrew-m-vick/project-1-group-18/blob/main/Andrew-Regression/Project1_Base_VICK.ipynb):** Applied Python to analyze film industry data, revealing box office trends and key performance indicators.
   
   ![regression](images/regression.png)
   
--	**[Crowdfunding ETL:](https://github.com/andrew-m-vick/Crowdfunding_ETL)** Designed and implemented a crowdfunding database using SQL, uncovering crucial trends in crowdfunding campaigns.
+-	**[Crowdfunding ETL](https://github.com/andrew-m-vick/Crowdfunding_ETL):** Designed and implemented a crowdfunding database using SQL, uncovering crucial trends in crowdfunding campaigns.
   
   ![ETL](images/etl_analysis.png)
   
--	**[Air Quality Visualization:](https://github.com/andrew-m-vick/project-3-group-08)** Collaborated on an interactive web application to visualize global air quality data, raising awareness of pollution's impact.
+-	**[Air Quality Visualization](https://github.com/andrew-m-vick/project-3-group-08):** Collaborated on an interactive web application to visualize global air quality data, raising awareness of pollution's impact.
   
   ![map](images/heatmap.png)
 
-- **[Citibike Ridership Analysis:](https://github.com/andrew-m-vick/tableau_citibike_2023)** Applied Tableau to visualize and analyze Citibike ridership data, revealing key insights into seasonal trends, commuting behaviors, station popularity, and geographic distribution.
+- **[Citibike Ridership Analysis](https://github.com/andrew-m-vick/tableau_citibike_2023):** Applied Tableau to visualize and analyze Citibike ridership data, revealing key insights into seasonal trends, commuting behaviors, station popularity, and geographic distribution.
 
 ![tableau](images/page_1.png)
