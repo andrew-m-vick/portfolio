@@ -14,7 +14,7 @@
 ## Skills
 -	**Programming Languages:** Python, SQL, JavaScript, VBA
 -	**Databases:** MySQL, MongoDB, PostgreSQL, NoSQL
--	**Data Analysis and Visualization:** Pandas, NumPy, Matplotlib, Tableau, Jupyter Notebook
+-	**Data Analysis and Visualization:** Pandas, NumPy, Matplotlib, Tableau, Jupyter Notebook, Machine Learning
 -	**Web Development:** HTML, CSS, Bootstrap, Flask, Leaflet
 -	**Other:** ETL, PySpark, API Interactions, Git, GitHub
 
