@@ -16,7 +16,7 @@
 -	**Databases:** MySQL, MongoDB, PostgreSQL, NoSQL
 -	**Data Analysis and Visualization:** Pandas, NumPy, Matplotlib, Tableau, Jupyter Notebook, Machine Learning
 -	**Web Development:** HTML, CSS, Bootstrap, Flask, Leaflet
--	**Other:** ETL, PySpark, API Interactions, Git, GitHub
+-	**Other:** ETL, PySpark, Databricks, API Interactions, Git, GitHub
 
 ## Projects
 -	**[Film Industry Analysis](https://github.com/andrew-m-vick/project-1-group-18/blob/main/Andrew-Regression/Project1_Base_VICK.ipynb):** Applied Python to analyze film industry data, revealing box office trends and key performance indicators.
