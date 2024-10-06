@@ -17,7 +17,7 @@ I'm excited to continue my journey in the world of data. I'm always eager to lea
 ## Skills
 -	**Programming Languages:** Python, SQL, JavaScript, VBA
 -	**Databases:** MySQL, MongoDB, PostgreSQL, NoSQL, Amazon Web Services
--	**Data Analysis and Visualization:** Pandas, NumPy, Matplotlib, Tableau, Jupyter Notebook, Machine Learning
+-	**Data Analysis and Visualization:** Pandas, NumPy, Matplotlib, Tableau, Jupyter Notebook, Scikit-Learn, Machine Learning
 -	**Web Development:** HTML, CSS, Bootstrap, Flask, Leaflet
 -	**Other:** ETL, PySpark, Databricks, API Interactions, Git, GitHub
 
@@ -34,6 +34,5 @@ I'm excited to continue my journey in the world of data. I'm always eager to lea
   
   ![map](images/heatmap.png)
 
-- **[Citibike Ridership Analysis](https://github.com/andrew-m-vick/tableau_citibike_2023):** Applied Tableau to visualize and analyze Citibike ridership data, revealing key insights into seasonal trends, commuting behaviors, station popularity, and geographic distribution.
-
-![tableau](images/page_1.png)
+- **[Used Car Price Predicter](https://github.com/andrew-m-vick/project-4-group-01):** Developed a machine learning model and dashboard to predict used car prices and implemented the model as well as a Tableau Story into a web app.
+![car](images/tableau.png)
