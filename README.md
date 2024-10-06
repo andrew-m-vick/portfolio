@@ -36,4 +36,4 @@ I'm excited to continue my journey in the world of data. I'm always eager to lea
 
 - **[Used Car Price Predicter](https://github.com/andrew-m-vick/project-4-group-01):** Developed a machine learning model and dashboard to predict used car prices and implemented the model as well as a Tableau Story into a web app.
 
-  ![car](images/tableau.png)
+![car](images/tableau.png)
