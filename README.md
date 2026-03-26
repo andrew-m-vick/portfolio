@@ -58,4 +58,8 @@ Raw crowdfunding data is messy and siloed, making it difficult to identify what 
 
 **Tools:** SQL, PostgreSQL, Pandas, NumPy, Matplotlib, QuickDBD, Jupyter Notebook
 
+<<<<<<< HEAD
 ![ETL](images/etl_analysis.png)
+=======
+![ETL](images/etl_analysis.png)
+>>>>>>> 11170c3c4556fb71cb503806d4b61340f16b66b4
