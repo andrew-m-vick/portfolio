@@ -1,6 +1,6 @@
 # About Me
 
-**Resume:** [Google Doc](https://docs.google.com/document/d/17Le8GVHA9N01vQbO_uO0oJrmCJ10JUYIlstCk18HwWA/edit?usp=sharing)
+**Resume:** [PDF](https://github.com/andrew-m-vick/portfolio/blob/main/resume.pdf)
 
 **LinkedIn:** [/andrew-m-vick](https://www.linkedin.com/in/andrew-m-vick)
 
