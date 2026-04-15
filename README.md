@@ -26,6 +26,15 @@ I bring a practical lens to data problems — having run my own business, I unde
 
 ## Projects
 
+### 🎬 [CINEDATA — Movie Box Office Analytics Platform](https://andrew-vick-movies.up.railway.app)
+Box office data is publicly available but rarely presented in a way that's analytical and intuitive at the same time. Built a full-stack movie analytics web platform that aggregates data from TMDB, OMDb, and Watchmode APIs to surface box office trends, rankings, release pipeline insights, and streaming availability. Architected and developed the entire platform end-to-end — including multi-API data integration, a Medallion Architecture data pipeline, interactive dashboards, and a live OPS monitoring tab demonstrating production-grade engineering practices.
+
+**Tools:** Python, Flask, TMDB API, OMDb API, Watchmode API, JavaScript, HTML, CSS
+
+![cinedata](images/cinedata.png)
+
+---
+
 ### 🚗 [Used Car Price Predictor](https://github.com/andrew-m-vick/project-4-group-01)
 Consumers and dealerships often lack reliable tools to assess fair used car pricing. Built a full-stack web application that predicts used car prices based on make, model, year, mileage, and fuel type using a trained machine learning model. Developed the front-end and back-end with Flask, integrated the ML model into the live application, and created a Tableau Story for interactive data exploration.
 
@@ -41,15 +50,6 @@ Air pollution data is widely collected but rarely made accessible in an intuitiv
 **Tools:** Python, Flask, SQL, SQLite, JavaScript, HTML, CSS, Jupyter Notebook
 
 ![map](images/heatmap.png)
-
----
-
-### 🎬 [Film Industry Analysis](https://github.com/andrew-m-vick/project-1-group-18/blob/main/Andrew-Regression/Project1_Base_VICK.ipynb)
-The relationship between a film's production budget and its profitability is widely assumed but rarely quantified across genres. Analyzed film industry data to reveal box office trends and key performance indicators across genres, distributors, and budget tiers. Spearheaded regression modeling to measure the statistical relationship between budget and profit at the genre level.
-
-**Tools:** Python, Pandas, Matplotlib, Jupyter Notebook
-
-![regression](images/regression.png)
 
 ---
 
