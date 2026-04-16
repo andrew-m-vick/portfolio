@@ -17,7 +17,7 @@ I bring a practical lens to data problems — having run my own business, I unde
 ## Skills
 
 - **Languages:** Python, SQL, JavaScript, VBA
-- **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Scikit-Learn, PySpark, Flask, SQLAlchemy, Leaflet
+- **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Scikit-Learn, PySpark, Flask, SQLAlchemy, Leaflet.js, Chart.js
 - **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
 - **Visualization:** Tableau, Power BI, Matplotlib, Plotly
 - **Platforms & Tools:** AWS, Databricks, Jupyter, VS Code, Git, ETL pipelines, Bootstrap
@@ -27,9 +27,9 @@ I bring a practical lens to data problems — having run my own business, I unde
 ## Projects
 
 ### 🎬 [CINEDATA — Movie Box Office Analytics Platform](https://andrew-vick-movies.up.railway.app)
-Box office data is publicly available but rarely presented in a way that's analytical and intuitive at the same time. Built a full-stack movie analytics web platform that aggregates data from TMDB, OMDb, and Watchmode APIs to surface box office trends, rankings, release pipeline insights, and streaming availability. Architected and developed the entire platform end-to-end — including multi-API data integration, a Medallion Architecture data pipeline, interactive dashboards, and a live OPS monitoring tab demonstrating production-grade engineering practices.
+Box office data is publicly available but rarely presented in a way that's analytical and intuitive at the same time. Built a full-stack movie analytics web platform that aggregates data from TMDB, OMDb, and Watchmode APIs to surface box office trends, rankings, release pipeline insights, and streaming availability. Architected and developed the entire platform end-to-end — including multi-API data integration, a Medallion Architecture data pipeline, interactive dashboards, an in-browser ridge regression forecast model, and a live OPS monitoring tab demonstrating production-grade engineering practices.
 
-**Tools:** Python, Flask, TMDB API, OMDb API, Watchmode API, JavaScript, HTML, CSS
+**Tools:** Python, Flask, Scikit-Learn, TMDB API, OMDb API, Watchmode API, Chart.js, JavaScript, HTML, CSS
 
 ![cinedata](images/cinedata.png)
 
