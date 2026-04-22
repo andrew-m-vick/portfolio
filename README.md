@@ -64,7 +64,7 @@ The city of Austin publishes restaurant inspection and permit data separately, a
 
 **Tools:** Python, Flask, PostgreSQL (Neon), Apache Airflow, rapidfuzz, pgeocode, Socrata APIs, Leaflet.js, Chart.js, Railway
 
-![restaurants](images/restaurants.png)
+![restaurant](images/restaurant.png)
 
 ---
 
