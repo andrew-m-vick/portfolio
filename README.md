@@ -33,9 +33,9 @@ Currently pursuing a BBA in Finance at the University of Houston-Downtown to fur
 ## Projects
 
 ### 🎬 [CINEDATA — Movie Box Office Analytics Platform](https://andrew-vick-movies.up.railway.app)
-Box office data is publicly available but rarely presented in a way that's analytical and intuitive at the same time. Built a full-stack movie analytics web platform that aggregates data from TMDB, OMDb, and Watchmode APIs to surface box office trends, rankings, release pipeline insights, and streaming availability. Architected and developed the entire platform end-to-end — multi-API data integration, a Medallion Architecture data pipeline, interactive Chart.js dashboards with Leaflet.js maps, an in-browser ridge regression forecast model, and a Groq-powered Llama 3.3 AI recommender. A Pipeline tab exposes the Medallion thinking (Bronze → Silver → Gold) for hiring-manager review.
+A cinephile's dashboard for tracking what's in theaters, what's streaming, and what's coming — with a focus on premium formats and the curation a repertory programmer would actually give. Built a full-stack movie analytics platform that aggregates data from TMDB, OMDb, and Watchmode APIs to surface box office trends, upcoming release pipeline, and streaming availability. Architected end-to-end with a Medallion Architecture data pipeline, interactive Chart.js dashboards, an in-browser forecast model, and a Groq-powered Llama 3.3 AI recommender that goes global, era-diverse, and beyond obvious picks. **IMAX deep-dive:** an auto-updated Now Playing feed (GitHub Actions scrapes Wikipedia weekly), a manually curated registry of films *actually filmed* in IMAX (15/70mm vs. laser digital, no DMR upconverts), and a Leaflet-powered premium IMAX theater finder with auto-routing to the nearest 70mm or laser venue. Installable as a PWA on iOS / Android / desktop.
 
-**Tools:** Python, Flask, Scikit-Learn, TMDB API, OMDb API, Watchmode API, Groq (Llama 3.3), Chart.js, Leaflet.js, JavaScript, HTML, CSS, Railway, Gunicorn
+**Tools:** Python, Flask, Scikit-Learn, TMDB API, OMDb API, Watchmode API, Groq (Llama 3.3), Chart.js, Leaflet.js, GitHub Actions, JavaScript, HTML, CSS, Railway, Gunicorn
 
 ![cinedata](images/cinedata.png)
 
@@ -60,9 +60,9 @@ Retirement calculators either ignore volatility entirely or bury it behind a bla
 ---
 
 ### 🍽️ [Austin Restaurant Industry Analytics](https://texas-restaurants-production.up.railway.app)
-The city of Austin publishes restaurant inspection and permit data separately, and nobody had joined them at the establishment level. Built an end-to-end analytics platform with a full Medallion Architecture ETL (Bronze → Silver → Gold) that ingests Socrata APIs, reconciles 1,177 establishments across datasets using rapidfuzz fuzzy matching with ZIP-code blocking + pgeocode, and surfaces the joined data through interactive Leaflet choropleth maps and Chart.js dashboards. Key finding: Pearson r = 0.053 between inspection score and permit density — the conventional wisdom didn't hold.
+Three public Texas datasets that nobody had joined: state mixed beverage gross receipts, City of Austin food inspection scores, and TABC license records. Built an end-to-end Medallion Architecture warehouse (Bronze → Silver → Gold) in PostgreSQL, orchestrated by Airflow (with a GitHub Actions mirror for hosted refresh), that reconciles 8,630 establishments — 1,177 fuzzy-matched across all three sources via `rapidfuzz` token-set scoring with ZIP-code blocking, greedy assignment, and persisted match provenance. **Serving twist:** every dashboard query is materialized to static JSON at build time and committed alongside the code, so production runs Flask + static files with **no database at runtime** ($0 DB hosting, sub-millisecond responses, full PWA offline support). Two independent frontends consume the same JSON contract — a vanilla JS dashboard and a React 18 / TypeScript / Vite SPA. **Headline finding:** Pearson *r* = 0.053 between inspection score and bar revenue — a clean null result that contradicts the conventional wisdom.
 
-**Tools:** Python, Flask, PostgreSQL (Neon), Apache Airflow, rapidfuzz, pgeocode, Socrata APIs, Leaflet.js, Chart.js, Railway
+**Tools:** Python, Flask, PostgreSQL 16, Apache Airflow, GitHub Actions, rapidfuzz, pgeocode, Socrata APIs, React 18, TypeScript, Vite, Leaflet.js, Chart.js, Docker Compose, Railway
 
 ![restaurant](images/restaurant.png)
 
@@ -71,7 +71,7 @@ The city of Austin publishes restaurant inspection and permit data separately, a
 ## Selected Experience
 
 ### Indigena Capital — Data Analyst / Developer
-Building data and web platforms for Indigenous community partners. Current work with the **Blood Tribe / Kainai Nation** includes a full-stack forage analytics platform covering 2019–2025 field data across BTAP, SW Expansion, and Mataki sites — Timothy and S-Timothy crop yields, moisture, and nutritional metrics surfaced through 20 chart sections. Built a Tableau Connected App JWT embed layer (PyJWT) for dashboards, a SendGrid-backed notification system, and a **hey·hay** PWA mockup (Next.js 15 target stack) for full-truckload hay ordering with distance-based freight math.
+Building data and web platforms for Indigenous community partners. Current work with the **Blood Tribe / Kainai Nation** is **Kainai Forage** — a password-protected, role-gated full-stack platform covering 2019–2025 Timothy and S-Timothy yield data across BTAP, SW Expansion, and Mataki sites (659 pivot-year records, 65 columns). Shipped a 22-feature scikit-learn RandomForest yield-prediction model (5-fold CV: MAE ≈ 0.63 MT/acre, R² ≈ 0.46) with Normal / Dry / Wet weather scenarios, ±1σ confidence ranges, top-driver explanations, peer percentiles, and Excel batch-prediction. Frontend includes 28 dashboard sections, an AG Grid data table with checkbox-filter dropdowns, a Leaflet pivot map, per-farmer dashboards, and full admin tooling for upload / retrain / forecast refresh. Auxiliary work: a Tableau Connected App JWT embed layer (PyJWT), a SendGrid-backed notification system, and a **hey·hay** PWA mockup (Next.js 15 target stack) for full-truckload hay ordering with distance-based freight math. Installable on iPhone / Android home screens as a PWA, with Open-Meteo-driven 14-day forecasts and a weekly Render cron for retraining.
 
 ---
 
