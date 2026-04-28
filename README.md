@@ -21,7 +21,7 @@ Currently pursuing a BBA in Finance at the University of Houston-Downtown to fur
 ## Technical Skills
 
 - **Languages:** Python, SQL, JavaScript, TypeScript, HTML, CSS, VBA
-- **Frameworks & Libraries:** Flask (app factory + blueprints), SQLAlchemy, Flask-Login, Flask-Migrate (Alembic), Jinja, Next.js, Bootstrap, Pandas, NumPy, Scikit-Learn, PySpark, Chart.js, Leaflet.js, KaTeX
+- **Frameworks & Libraries:** Flask (app factory + blueprints), SQLAlchemy, Flask-Login, Flask-Migrate (Alembic), Jinja, React 18, Next.js, Vite, React Router, Bootstrap, Pandas, NumPy, Scikit-Learn, PySpark, Chart.js, Leaflet.js, AG Grid, KaTeX
 - **Databases:** PostgreSQL (Neon, pgAdmin), MySQL, SQLite, MongoDB
 - **Data Engineering:** Apache Airflow, Medallion Architecture (Bronze / Silver / Gold), ETL pipelines, REST API integration, rapidfuzz fuzzy matching, Socrata APIs
 - **Visualization:** Tableau (JWT embed), Power BI, Matplotlib, Plotly, Chart.js, Leaflet
